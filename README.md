@@ -1,7 +1,7 @@
 # estate-crawler
 use python3 and beautifulsoup to scraping estate data from some website to export a csv file
 
-![alt text](https://github.com/smalltide/estate-crawler/blob/master/screenshot.gif "estate-crawler")
+![alt text](https://github.com/smalltide/estate-crawler/blob/master/screenshot.png "estate-crawler")
 
 1. python3
 2. beautifulsoup
